@@ -14,9 +14,9 @@ To install the Chrome extension, follow these steps:
 
 Once the extension is installed, you can use it by following these steps:
 
-1. Once loaded into a Gimkit question, right click anywhere on the page and select the "Translate to <i>X</i> language.
-2. Change the Chrome translater to you desired language. ie: If the questions are in English, you would want to translate to Spanish, as that will be the answer.
-3. Click on the Chrome extension toolbar icon to open the popup window.
+1. Once loaded into a Gimkit question, right click anywhere on the page and select the "Translate to <i>X</i> language".
+2. Change the Chrome translater to your desired language. ie: If the questions are in English, you would want to translate to Spanish, as that will be the answer.
+3. Click on the Chrome extension icon in the top right of chrome (it might be hidden underneath the puzzle icon, you can pin it for easy access later).
 4. Click the "Allow Translate!" button to start allowing Chrome to translate the page.
 5. After answering a Gimkit question you will need to go back and click on the extenstion and click "Allow Translate! again. (This will be fixed in a future release &#129310;)
 
