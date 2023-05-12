@@ -2,7 +2,7 @@
 
 To install the Chrome extension, follow these steps:
 
-1. Click the green drop-down arrow next to the code button on the top right of this page, and click <b>"Download ZIP"</b>.
+1. Click the drop-down arrow next to the green code button on the top right of this page, and click <b>"Download ZIP"</b>.
 2. Unzip the folder to a destination you won't forget.
 3. Open Google Chrome and type `chrome://extensions/` in the address bar.
 4. Enable the "Developer mode" toggle switch located at the top right corner of the page.
