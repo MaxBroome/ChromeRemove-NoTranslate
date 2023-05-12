@@ -7,7 +7,7 @@ To install the Chrome extension, follow these steps:
 3. Open Google Chrome and type `chrome://extensions/` in the address bar.
 4. Enable the "Developer mode" toggle switch located at the top right corner of the page.
 5. Click on the "Load unpacked" button.
-6. Select the <i>Gimkit Allow Translate</i> folder.
+6. Select the folder you unziped a few steps ago.
 7. The extension will be loaded and ready to use.
 
 ## Usage
